@@ -1,8 +1,8 @@
 ## Opa, sou o Rafael Bueno 
 <div align="center">
   <a href="https://github.com/RafaelBuenoG">
-  <img width="42%" height="180em" src="https://github-readme-stats.vercel.app/api?username=RafaelBuenoG&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img width="50%" height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelBuenoG&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img width="45%" height="160em" src="https://github-readme-stats.vercel.app/api?username=RafaelBuenoG&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img width="45%" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelBuenoG&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 <div align="center"><br>
   <img align="center" alt="HTML" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
