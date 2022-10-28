@@ -1,4 +1,4 @@
-## Opa, sou o Rafael Bueno 
+## Olá, meu nome é Rafael Bueno メ
 <div align="center">
   <a href="https://github.com/RafaelBuenoG">
   <img width="45%" height="160em" src="https://github-readme-stats.vercel.app/api?username=RafaelBuenoG&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
